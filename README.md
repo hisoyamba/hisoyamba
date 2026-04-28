@@ -15,6 +15,15 @@ ETL-пайплайн для загрузки котировок BTC и ETH с б
 **Репозиторий:** [github.com/hisoyamba/bybit-etl](https://github.com/hisoyamba/bybit-etl)
 
 </details>
+<details>
+<summary><b>simulation_project</b> — симуляция экосистемы на Java</summary>
+
+Консольная симуляция замкнутой экосистемы: травоядные ищут и едят растения, хищники охотятся на травоядных, всё двигается по сетке по своим правилам. Реализована логика поиска пути и взаимодействия объектов на карте.
+
+**Стек:** Java, ООП  
+**Репозиторий:** [github.com/hisoyamba/simulation_project](https://github.com/hisoyamba/simulation_project)
+
+</details>
 
 ### 📫 contacts
 - Telegram: [@hisoyamba](https://t.me/hisoyamba)
