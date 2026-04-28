@@ -27,4 +27,5 @@ ETL-пайплайн для загрузки котировок BTC и ETH с б
 
 ### 📫 contacts
 - Telegram: [@hisoyamba](https://t.me/hisoyamba)
-![GitHub Contribution Snake](https://raw.githubusercontent.com/hisoyamba/hisoyamba/output/snake.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hisoyamba&theme=github-light)
