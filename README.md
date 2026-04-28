@@ -1,4 +1,4 @@
-##👋 Hello! I'm Igor
+##👋 Hello! I'm Junior Data Engineer
 
 
 ### 🛠 stack
