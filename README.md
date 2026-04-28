@@ -2,7 +2,7 @@
 
 
 ### 🛠 stack
-Python, SQL, Java, Apache Airflow, ClickHouse, PostgreSQL, Apache Superset, DataLens, Grafana, ELK (Elasticsearch, Logstash, Kibana), RabbitMQ, Docker, Linux.
+Python, , Java, SQL, Apache Airflow, ClickHouse, PostgreSQL, Apache Superset, DataLens, Grafana, ELK (Elasticsearch, Logstash, Kibana), RabbitMQ, Docker, Linux.
 
 ### 📌 my projects
 
