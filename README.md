@@ -1,5 +1,3 @@
-## 👋 Hello! I'm Junior Data Engineer
-
 
 ### 🛠 stack
 Python, Java, SQL, Apache Airflow, ClickHouse, PostgreSQL, Apache Superset, DataLens, Grafana, ELK (Elasticsearch, Logstash, Kibana), RabbitMQ, Docker, Linux.
