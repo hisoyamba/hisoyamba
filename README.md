@@ -5,12 +5,11 @@ Python, Java, SQL, Apache Airflow, ClickHouse, PostgreSQL, Apache Superset, Data
 ### 📌 my projects
 
 <details>
-<summary><b>bybit-etl</b> — ETL пайплайн для крипто-данных</summary>
+<summary><b>etl</b> — ETL пайплайн</summary>
 
-ETL-пайплайн для загрузки котировок BTC и ETH с биржи Bybit, хранения в ClickHouse и визуализации в Apache Superset. Оркестрация через Apache Airflow, всё разворачивается одной командой через Docker Compose.
+ETL-пайплайн данных USGS о землетрясениях: Airflow, PostgreSQL, MinIO (S3), Metabase, DuckDB. Развёртывание через Docker Compose.
 
-**Стек:** Python, Airflow, ClickHouse, Superset, Docker  
-**Репозиторий:** [github.com/hisoyamba/bybit-etl](https://github.com/hisoyamba/bybit-etl)
+**Репозиторий:** [https://github.com/hisoyamba/pet_project/tree/main#первоначальная-настройка)
 
 </details>
 <details>
@@ -19,7 +18,7 @@ ETL-пайплайн для загрузки котировок BTC и ETH с б
 Консольная симуляция замкнутой экосистемы: травоядные ищут и едят растения, хищники охотятся на травоядных, всё двигается по сетке по своим правилам. Реализована логика поиска пути и взаимодействия объектов на карте.
 
 **Стек:** Java, ООП  
-**Репозиторий:** [github.com/hisoyamba/simulation_project](https://github.com/hisoyamba/simulation_project)
+**Репозиторий:** [https://github.com/hisoyamba/pet_project)
 
 </details>
 
